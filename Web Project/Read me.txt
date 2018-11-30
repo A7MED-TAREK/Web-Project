@@ -1,0 +1,4 @@
+1- Run the "createAll.php" file to create the database and tables.
+2- Run the "p1.php" file to open the application.
+3- Choose the leave station ,arrive station and train clase.
+4 - Press "Show Trains" to see results.
